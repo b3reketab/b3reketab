@@ -138,6 +138,9 @@
           <a href='https://github.com/b3reketab/game-hub'>
             <img src="icons/repo-web.svg"/>
           </a>
+          <a href='https://b3reketab.github.io/game-hub/'>
+            <img src='icons/live.svg'/>
+          </a>
         </p>
         <p><strong>React, TypeScript, Redux, NestJs, Prisma, MongoDB</strong></p>
       </div>
