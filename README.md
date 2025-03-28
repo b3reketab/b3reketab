@@ -144,7 +144,7 @@
     </td>
   </tr>
   <tr>
-    <td width='50%'>
+    <td width='50%' colspan=2>
       <h2 align='center'>Realstate App</h2>
       <div align='center'>  
         <a href='https://b3reketab.github.io/realstate-app/'>
