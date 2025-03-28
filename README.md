@@ -84,7 +84,7 @@
       <br/>Prisma
     </td>
         <td align="center" height="70" width="70">
-      <img src="icons/mongodb-a21.svg" alt="PostgreSQL" width="40" height="40"/>
+      <img src="icons/mongodb-ar21.svg" alt="PostgreSQL" width="40" height="40"/>
       <br/>MongoDB
     </td>
     <td align="center" height="70" width="70">
